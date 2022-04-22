@@ -1,4 +1,4 @@
-# kulineran
+# Foods App
 
 ## Project setup
 ```
