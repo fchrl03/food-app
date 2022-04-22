@@ -14,6 +14,9 @@ import Hero from '@/components/Hero.vue';
 
 export default {
   name: 'Home',
+  created() {
+    document.title = 'Foods App';
+  },
   components: {
     Navbar,
     Hero,
