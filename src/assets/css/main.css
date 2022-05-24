@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+
+#app {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active {
+  font-weight: bold;
+}
+
+.badge-custom {
+  border-radius: 10px;
+  margin-left: 0.3rem;
+  background-color: #4eb883;
+}
+
+.btn-success {
+  background-color: #4eb883;
+}
